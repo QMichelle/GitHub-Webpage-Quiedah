@@ -69,7 +69,6 @@
       finished = true;
       $("#messages").text("You Won!");
 
-
            }
 
     }
